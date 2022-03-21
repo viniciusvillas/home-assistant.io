@@ -16,6 +16,7 @@ ha_platforms:
 <div class='note warning'>
 
 This integration is deprecated and will be removed in Home Assistant Core 2022.5.
+Please check the [breaking changes](https://www.home-assistant.io/blog/2022/03/02/release-20223/#breaking-changes) section of the release [2022.3.5](https://www.home-assistant.io/blog/2022/03/02/release-20223/#release-202235---march-15) for more information.
 
 </div>
 
